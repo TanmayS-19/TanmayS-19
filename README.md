@@ -1,4 +1,5 @@
-## Hi there 👋
+Master's student in Data Science with a background in Computer Science.
+Proficient in Python, SQL, Machine Learning, Statistics, and Data Cleaning/Visualization tools.
 
 <!--
 **TanmayS-19/TanmayS-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
