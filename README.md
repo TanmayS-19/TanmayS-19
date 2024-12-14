@@ -1,4 +1,4 @@
-Master's student in Data Science with a background in Computer Science.
+
 
 Proficient in Python, SQL, Machine Learning, Statistics, and Data Cleaning/Visualization tools.
 
