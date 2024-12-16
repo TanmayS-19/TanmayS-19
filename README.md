@@ -52,6 +52,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="40"/>
   </a>
   <img width="25"/>
+
+  <!-- OpenCV -->
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" height="40"/>
+  </a>
+  <img width="25"/>
   
   <!-- Jupyter -->
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
